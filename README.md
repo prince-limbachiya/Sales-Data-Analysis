@@ -34,6 +34,7 @@ This project analyzes sales data using Python and Pandas. It reads sales data fr
 - Statistical Summary
 - Total Sales Calculation
 - Total Revenue
-
+- ## Output
+![Sales Chart](output.png)
 ## 👨‍💻 Author
 Prince Limbachiya
